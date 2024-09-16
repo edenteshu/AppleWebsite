@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 5,
+      "product_url": "iphonese",
+      "product_name": "iphone SE",
+      "description_id": 4,
+      "product_brief_description": " lots to love. less to dpend",
+      "product_description": " i phonese  packs our most powerful chip in to our most popular size at our most affordable price",
+      "product_img": "https://www.apple.com/v/iphone-se/k/images/overview/hero/pocket_size_static__b5nzjws6jrg2_large_2x.jpg",
+      "product_link": "https://www.apple.com/shop/buy-iphone",
+      "price_id": 4,
+      "starting_price": "$449",
+      "price_range": "from $19.4?mo. or $454 with trade in"
+    },
+    {
+      "product_id": 10,
+      "product_url": "iphone15pro",
+      "product_name": "iphone 15 pro",
+      "description_id": 11,
+      "product_brief_description": "lots to love. less to spend.",
+      "product_description": "6.1-inch Super Retina XDR display footnote Â¹ featuring ProMotion, Always-On, and Dynamic Island\r\nStrong and light titanium design with Action button â€” a fast track to your favorite feature",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15pro-digitalmat-gallery-1-202309_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1693346851451",
+      "product_link": "htthttps://store.storeimages.cdn-apple.com",
+      "price_id": 11,
+      "starting_price": "$979",
+      "price_range": "From $999or $41.62/mo.per month for 24 mo.*"
+    },
+    {
+      "product_id": 6,
+      "product_url": "iphone13",
+      "product_name": "iphone 13",
+      "description_id": 12,
+      "product_brief_description": "lots to love. Less to bspend",
+      "product_description": "yoo can either pay for your new iphone in full or pay monthly with carrier financing",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021_AV2?wid=760&hei=440&fmt=jpeg&qlt=95&.v=1656632784572",
+      "product_link": "https://www.apple.com/iphone/",
+      "price_id": 12,
+      "starting_price": "399$",
+      "price_range": "from $9.4?mo. or $224 with trade in"
+    }
+  ]
+}
